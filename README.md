@@ -20,11 +20,12 @@ Ele foi criado apenas para fins de aprendizado e experimentação das tecnologia
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/laurasrocha/interfaceStudy-yt.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-projeto
+   cd interfaceStudy-yt
+
    ```
 3. Instale as dependências:
    ```bash
