@@ -13,7 +13,7 @@ Este projeto foi desenvolvido com o objetivo de aprimorar minhas habilidades em 
 Ele foi criado apenas para fins de aprendizado e experimentação das tecnologias mencionadas acima.
 
 ## 📸 Preview
-
+ ![Preview do Projeto](https://github.com/laurasrocha/interfaceStudy-yt/blob/main/imagemTela.png)
 
 
 ## 🛠 Como Rodar o Projeto
