@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Projeto: Clone da tela do Youtube
 
-## Getting Started
+Este projeto foi desenvolvido com o objetivo de aprimorar minhas habilidades em desenvolvimento web, utilizando **React, Next.js e Tailwind CSS**. Trata-se de uma recriação da interface do YouTube, sem fins lucrativos e apenas para fins educacionais.
 
-First, run the development server:
+## 🚀 Tecnologias Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **React** - Biblioteca JavaScript para construção de interfaces dinâmicas
+- **Next.js** - Framework para aplicações React com renderização no servidor (SSR) e geração estática (SSG)
+- **Tailwind CSS** - Framework CSS para estilização rápida e responsiva
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Objetivo do Projeto
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Ele foi criado apenas para fins de aprendizado e experimentação das tecnologias mencionadas acima.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📸 Preview
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Como Rodar o Projeto
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd nome-do-projeto
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   # ou
+   yarn install
+   ```
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   # ou
+   yarn dev
+   ```
+5. Abra no navegador: `http://localhost:3000`
 
-## Deploy on Vercel
+## 📜 Licença
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este projeto foi criado apenas para fins de estudo e não deve ser utilizado para propósitos comerciais.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+
+
